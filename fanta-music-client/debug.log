@@ -1,0 +1,6 @@
+[0126/165110:ERROR:process_info.cc(330)] VirtualQueryEx: 액세스가 거부되었습니다. (0x5)
+[0126/165110:ERROR:process_info.cc(547)] ReadMemoryInfo failed
+[0126/165110:ERROR:process_reader_win.cc(142)] SuspendThread: 액세스가 거부되었습니다. (0x5)
+[0126/165110:ERROR:exception_snapshot_win.cc(87)] thread ID 5056 not found in process
+[0126/165110:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0126/165110:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: 기존 프로세스에 액세스하려고 했습니다.  (0xc000010a)
